@@ -1,7 +1,8 @@
-Official repository of our 2025 paper "Infrared Vehicle Detection via Edge-Aware Feature Enhancement and Frequency-Guided Adaptive Feature Fusion".
+Official repository of our 2026 paper "Edge-Aware and Adaptive Frequency-Decoupled Feature Enhancement for Infrared Vehicle Target Detection and Monitoring".
 
-## Infrared Vehicle Detection via Edge-Aware Feature Enhancement and Frequency-Guided Adaptive Feature Fusion    
+## Edge-Aware and Adaptive Frequency-Decoupled Feature Enhancement for Infrared Vehicle Target Detection and Monitoring  
 Authors: Xueting Li, Houzhang Fang; Qiuhuan Chen; Liming Wang; Yi Chang; Luxin Yan
+
 
 
 
